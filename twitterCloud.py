@@ -8,6 +8,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import PIL
 import random
+import string
 from scipy.ndimage import gaussian_gradient_magnitude
 
 ## Note: the user input, csvFileName input, imageName input, and imageCloudFileName must all be strings.
